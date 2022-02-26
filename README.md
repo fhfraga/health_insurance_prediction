@@ -2,7 +2,7 @@
 ## Projeto de classificação de clientes para seguro de saúde
 
 <figure>
-  <img src="./imagens/insurance.jpg " alt="Figura 1" />
+  <img src="./imagens/insurance.jpg "  width="50%" height="50%" alt="Figura 1" />
 </figure>
 
 Nosso cliente é uma Seguradora que forneceu Seguro Saúde para seus clientes agora eles precisam de sua ajuda na construção de um modelo para prever se os segurados (clientes) do ano passado também terão interesse no Seguro de Veículos fornecido pela empresa.
